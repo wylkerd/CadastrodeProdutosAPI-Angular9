@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 11999.99
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+ Ultra",
+      "price": "7000.89"
+    },
+    {
+      "name": "Mouse Gamer",
+      "price": "120.00",
+      "id": 4
+    },
+    {
+      "name": "Lápis Preto",
+      "price": "2.50",
+      "id": 5
+    }
+  ]
+}

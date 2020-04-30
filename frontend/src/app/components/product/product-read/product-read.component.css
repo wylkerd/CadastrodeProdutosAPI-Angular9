@@ -1,0 +1,15 @@
+table {
+    width: 100%; /* Largura da Tabela em 100% da tela */
+}
+
+.edit { 
+    margin-right: 10px;
+}
+
+.edit > i {
+    color: #e0a11a;
+}
+
+.delete > i {
+    color: #e35e6b;
+}
